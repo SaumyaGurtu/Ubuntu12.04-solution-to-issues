@@ -9,7 +9,7 @@
 > rfkill list <br/>
 
 You can find 'compact-wireless-2012-03-10-p' folder in the repository.
-Specifications - (incomplete)
+Specifications - 32 bit, Ubuntu 12.04, Lenovo G580
 
 ## wifi connection
 
