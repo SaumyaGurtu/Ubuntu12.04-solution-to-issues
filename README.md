@@ -1,7 +1,6 @@
 ## lan connection ethernet
 
-> cd Desktop/compat-wireless-2012-03-10-p/ 
-<br/>
+> cd Desktop/compat-wireless-2012-03-10-p/ <br/>
 > scripts/driver-select alx
 <br/>
 > sudo su
